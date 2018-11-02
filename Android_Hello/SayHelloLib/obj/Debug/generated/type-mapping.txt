@@ -1,0 +1,13 @@
+com/example/co/helloaar/BuildConfig = Com.Example.CO.Helloaar.BuildConfig
+  <init>()V = .ctor()
+  APPLICATION_ID = ApplicationId
+  BUILD_TYPE = BuildType
+  DEBUG = Debug
+  FLAVOR = Flavor
+  VERSION_CODE = VersionCode
+  VERSION_NAME = VersionName
+com/example/co/helloaar/SayHello = Com.Example.CO.Helloaar.ISayHello
+  sayHello(Ljava/lang/String;)Ljava/lang/String; = SayHello(string)
+com/example/co/helloaar/SayHelloImpl = Com.Example.CO.Helloaar.SayHelloImpl
+  <init>()V = .ctor()
+  sayHello(Ljava/lang/String;)Ljava/lang/String; = SayHello(string)

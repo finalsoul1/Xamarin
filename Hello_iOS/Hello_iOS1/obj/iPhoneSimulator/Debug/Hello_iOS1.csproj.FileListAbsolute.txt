@@ -1,0 +1,11 @@
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\bin\iPhoneSimulator\Debug\Hello_iOS1.exe
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\bin\iPhoneSimulator\Debug\Hello_iOS1.pdb
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\optimized\
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\Hello_iOS1.csproj.CoreCompileInputs.cache
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\Hello_iOS1.exe
+E:\kwon\xamarin\Hello_iOS\Hello_iOS1\obj\iPhoneSimulator\Debug\Hello_iOS1.pdb

@@ -1,0 +1,5 @@
+E:\kwon\xamarin\Android_Hello\SayHelloLib\bin\Debug\SayHelloLib.dll
+E:\kwon\xamarin\Android_Hello\SayHelloLib\bin\Debug\SayHelloLib.pdb
+E:\kwon\xamarin\Android_Hello\SayHelloLib\obj\Debug\SayHelloLib.csproj.CoreCompileInputs.cache
+E:\kwon\xamarin\Android_Hello\SayHelloLib\obj\Debug\SayHelloLib.dll
+E:\kwon\xamarin\Android_Hello\SayHelloLib\obj\Debug\SayHelloLib.pdb
