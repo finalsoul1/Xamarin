@@ -1,0 +1,13 @@
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\bin\Debug\netstandard2.0\ListViewp168.dll
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\bin\Debug\netstandard2.0\ListViewp168.deps.json
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\ListViewp168.csproj.CoreCompileInputs.cache
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\ListViewp168.AssemblyInfoInputs.cache
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\ListViewp168.AssemblyInfo.cs
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\XamlC.stamp
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\ListViewp168.dll
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\ListViewp168.pdb
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\bin\Debug\netstandard2.0\ListViewp168.pdb
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\ListViewp168.csprojAssemblyReference.cache
+E:\kwon\xamarin\Forms\ListViewp168\ListViewp168\ListViewp168\obj\Debug\netstandard2.0\NextPage.xaml.g.cs

@@ -1,0 +1,13 @@
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\bin\Debug\netstandard2.0\Selector.deps.json
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\bin\Debug\netstandard2.0\Selector.dll
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\bin\Debug\netstandard2.0\Selector.pdb
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.csprojAssemblyReference.cache
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.csproj.CoreCompileInputs.cache
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.AssemblyInfoInputs.cache
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.AssemblyInfo.cs
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\XamlC.stamp
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.dll
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.pdb
+E:\kwon\xamarin\Forms\Selector\Selector\Selector\obj\Debug\netstandard2.0\todoPage.xaml.g.cs

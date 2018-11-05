@@ -1,0 +1,11 @@
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\bin\Debug\netstandard2.0\ViewtoView.deps.json
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\bin\Debug\netstandard2.0\ViewtoView.dll
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\bin\Debug\netstandard2.0\ViewtoView.pdb
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\ViewtoView.csproj.CoreCompileInputs.cache
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\ViewtoView.AssemblyInfoInputs.cache
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\ViewtoView.AssemblyInfo.cs
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\ViewtoView.dll
+C:\Users\co\source\repos\ViewtoView\ViewtoView\ViewtoView\obj\Debug\netstandard2.0\ViewtoView.pdb

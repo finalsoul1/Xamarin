@@ -1,0 +1,12 @@
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\bin\Debug\netstandard2.0\BackBinding.deps.json
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\bin\Debug\netstandard2.0\BackBinding.dll
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\bin\Debug\netstandard2.0\BackBinding.pdb
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\BackBinding.csprojAssemblyReference.cache
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\BackBinding.csproj.CoreCompileInputs.cache
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\BackBinding.AssemblyInfoInputs.cache
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\BackBinding.AssemblyInfo.cs
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\XamlC.stamp
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\BackBinding.dll
+E:\kwon\xamarin\Forms\BackBinding\BackBinding\BackBinding\obj\Debug\netstandard2.0\BackBinding.pdb

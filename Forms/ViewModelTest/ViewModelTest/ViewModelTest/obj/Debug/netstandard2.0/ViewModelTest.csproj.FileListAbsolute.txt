@@ -1,0 +1,11 @@
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\ViewModelTest.csproj.CoreCompileInputs.cache
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\ViewModelTest.AssemblyInfoInputs.cache
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\ViewModelTest.AssemblyInfo.cs
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\bin\Debug\netstandard2.0\ViewModelTest.deps.json
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\bin\Debug\netstandard2.0\ViewModelTest.dll
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\bin\Debug\netstandard2.0\ViewModelTest.pdb
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\ViewModelTest.dll
+C:\Users\co\source\repos\ViewModelTest\ViewModelTest\ViewModelTest\obj\Debug\netstandard2.0\ViewModelTest.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_iOSs", "Hello_iOSs\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_iOS1", "Hello_iOS1\Hello_iOS1.csproj", "{3C3B6B1B-FCF9-4F0C-9EFB-D4909C5A9FA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOs_Hello", "iOs_Hello\iOs_Hello.csproj", "{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhone = Debug|iPhone
@@ -45,6 +47,14 @@ Global
 		{3C3B6B1B-FCF9-4F0C-9EFB-D4909C5A9FA7}.Release|iPhone.Build.0 = Release|iPhone
 		{3C3B6B1B-FCF9-4F0C-9EFB-D4909C5A9FA7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{3C3B6B1B-FCF9-4F0C-9EFB-D4909C5A9FA7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Release|iPhone.Build.0 = Release|iPhone
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{77EC1D39-B0B9-49D9-B6E3-31BCC84A40E2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
